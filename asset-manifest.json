@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.c03912f3.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.9757063b.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.c65b1859.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.8657c125.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/the-swedish-prince-1.png": "/Mark-Belford-Website/static/media/the-swedish-prince-1.11daed5ab55d7a73be60.png",
-    "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.0c0b26af5e66e5b36fbc.webp",
+    "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.577fbfc1564fe8d172a0.webp",
     "static/media/menu-background-1.webp": "/Mark-Belford-Website/static/media/menu-background-1.cadf8672b4eb23317f30.webp",
-    "static/media/menu-background-2.webp": "/Mark-Belford-Website/static/media/menu-background-2.d33ba76b6b3ba69bfb63.webp",
+    "static/media/menu-background-2.webp": "/Mark-Belford-Website/static/media/menu-background-2.155bd3186cf57f1f68f8.webp",
     "static/media/menu-background-4.webp": "/Mark-Belford-Website/static/media/menu-background-4.4b4b8453452ae6a9e311.webp",
-    "static/media/menu-background-3.webp": "/Mark-Belford-Website/static/media/menu-background-3.bdeccf35102d36f04fec.webp",
     "static/media/GothamSSm-Book_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.66e30a197d6da2d000ac.woff",
     "static/media/GothamSSm-Light_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.9549abde91d6ffe3cf8d.woff",
+    "static/media/mark-belford-home-1-xs.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1-xs.d2227d3f9290e3e3c941.webp",
     "static/media/GothamSSm-Book_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
     "static/media/GothamSSm-Light_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.b0e79820df3aed09e69a.woff2",
-    "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.67907f98c9be00b1505ea8399bed6a4c.svg",
-    "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.c7439a93932df3ed8dd9709fc6321717.svg",
+    "static/media/menu-background-3.webp": "/Mark-Belford-Website/static/media/menu-background-3.cc7f90442957158eee85.webp",
+    "static/media/mark-belford-black-lace-2.webp": "/Mark-Belford-Website/static/media/mark-belford-black-lace-2.6dbfb5c0152575b3ee6b.webp",
+    "static/media/mark-belford-black-lace-1.webp": "/Mark-Belford-Website/static/media/mark-belford-black-lace-1.016852558c4452bd9669.webp",
+    "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
+    "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.c03912f3.css.map": "/Mark-Belford-Website/static/css/main.c03912f3.css.map",
-    "main.9757063b.js.map": "/Mark-Belford-Website/static/js/main.9757063b.js.map",
+    "main.c65b1859.css.map": "/Mark-Belford-Website/static/css/main.c65b1859.css.map",
+    "main.8657c125.js.map": "/Mark-Belford-Website/static/js/main.8657c125.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c03912f3.css",
-    "static/js/main.9757063b.js"
+    "static/css/main.c65b1859.css",
+    "static/js/main.8657c125.js"
   ]
 }
