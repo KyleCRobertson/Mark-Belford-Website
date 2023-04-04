@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.ff0d740e.css",
+    "main.css": "/Mark-Belford-Website/static/css/main.f106217e.css",
     "main.js": "/Mark-Belford-Website/static/js/main.8b77b0cf.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/the-swedish-prince-1.png": "/Mark-Belford-Website/static/media/the-swedish-prince-1.11daed5ab55d7a73be60.png",
@@ -26,12 +26,12 @@
     "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
     "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.ff0d740e.css.map": "/Mark-Belford-Website/static/css/main.ff0d740e.css.map",
+    "main.f106217e.css.map": "/Mark-Belford-Website/static/css/main.f106217e.css.map",
     "main.8b77b0cf.js.map": "/Mark-Belford-Website/static/js/main.8b77b0cf.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff0d740e.css",
+    "static/css/main.f106217e.css",
     "static/js/main.8b77b0cf.js"
   ]
 }
