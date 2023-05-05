@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.f9e82f25.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.f81e28bb.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.b2a05be1.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.1c8031d0.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.577fbfc1564fe8d172a0.webp",
@@ -11,6 +11,7 @@
     "static/media/mark-belford-dior-3.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-3.3236051e526b1f0c5cbc.webp",
     "static/media/mark-belford-dior-2.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-2.2d9d88f46ae83ed6d7ec.webp",
     "static/media/menu-background-1.webp": "/Mark-Belford-Website/static/media/menu-background-1.300cdbdeb10f51bff4c1.webp",
+    "static/media/mark-belford-dior-7.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-7.7b2cd3ba8e8693963980.webp",
     "static/media/menu-background-8.webp": "/Mark-Belford-Website/static/media/menu-background-8.9866feb990009f22ebca.webp",
     "static/media/menu-background-6.webp": "/Mark-Belford-Website/static/media/menu-background-6.7b78ec262fc36db9e297.webp",
     "static/media/mark-belford-dior-1-sml.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1-sml.356aa4f9d731a65addec.webp",
@@ -30,12 +31,12 @@
     "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
     "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.f9e82f25.css.map": "/Mark-Belford-Website/static/css/main.f9e82f25.css.map",
-    "main.f81e28bb.js.map": "/Mark-Belford-Website/static/js/main.f81e28bb.js.map",
+    "main.b2a05be1.css.map": "/Mark-Belford-Website/static/css/main.b2a05be1.css.map",
+    "main.1c8031d0.js.map": "/Mark-Belford-Website/static/js/main.1c8031d0.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9e82f25.css",
-    "static/js/main.f81e28bb.js"
+    "static/css/main.b2a05be1.css",
+    "static/js/main.1c8031d0.js"
   ]
 }
