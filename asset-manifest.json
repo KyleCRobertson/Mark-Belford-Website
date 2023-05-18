@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.8710d8ee.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.5c5c2993.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.a6a98404.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.c34bd0e0.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.577fbfc1564fe8d172a0.webp",
     "static/media/mark-belford-dior-4.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-4.4235caac37703b58291a.webp",
-    "static/media/mark-belford-silver-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-1.00fb5d712e020f5c7257.webp",
     "static/media/mark-belford-dior-5.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-5.813394337cbd0001e7d5.webp",
     "static/media/mark-belford-dior-1.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1.d1dfd80d9d22bad76543.webp",
     "static/media/mark-belford-dior-3.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-3.3236051e526b1f0c5cbc.webp",
     "static/media/mark-belford-dior-2.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-2.2d9d88f46ae83ed6d7ec.webp",
+    "static/media/mark-belford-burmese-ruby-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-burmese-ruby-dress-1.f9294e9d623c07f40c8c.webp",
     "static/media/menu-background-1.webp": "/Mark-Belford-Website/static/media/menu-background-1.300cdbdeb10f51bff4c1.webp",
     "static/media/mark-belford-black-lace-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-black-lace-dress-1.770d3bd386b12d321ebc.webp",
     "static/media/mark-belford-dior-7.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-7.7b2cd3ba8e8693963980.webp",
@@ -33,15 +33,14 @@
     "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
     "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "static/media/mark-belford-silver-dress-sketch.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-sketch.9a35ac3899d1ced1e2e4.webp",
-    "static/media/mark-belford-mark.svg": "/Mark-Belford-Website/static/media/mark-belford-mark.d72850d5075c2315cfa7d3bd9895f03c.svg",
     "static/media/scissors-pink.svg": "/Mark-Belford-Website/static/media/scissors-pink.a3f960fa58c030e104cef9f1155ca190.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.8710d8ee.css.map": "/Mark-Belford-Website/static/css/main.8710d8ee.css.map",
-    "main.5c5c2993.js.map": "/Mark-Belford-Website/static/js/main.5c5c2993.js.map",
+    "main.a6a98404.css.map": "/Mark-Belford-Website/static/css/main.a6a98404.css.map",
+    "main.c34bd0e0.js.map": "/Mark-Belford-Website/static/js/main.c34bd0e0.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8710d8ee.css",
-    "static/js/main.5c5c2993.js"
+    "static/css/main.a6a98404.css",
+    "static/js/main.c34bd0e0.js"
   ]
 }
