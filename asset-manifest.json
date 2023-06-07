@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.bd490be8.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.037ff7df.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.6cd35150.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.b8cb6918.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-dior-4.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-4.4235caac37703b58291a.webp",
@@ -30,17 +30,18 @@
     "static/media/menu-background-7.webp": "/Mark-Belford-Website/static/media/menu-background-7.4892f06d5ea5afd13ce1.webp",
     "static/media/menu-background-5-sml.webp": "/Mark-Belford-Website/static/media/menu-background-5-sml.06c13aa3865d612b1faf.webp",
     "static/media/menu-background-7-sml.webp": "/Mark-Belford-Website/static/media/menu-background-7-sml.fb7995d0c644f01b38f0.webp",
+    "static/media/palm-tree.svg": "/Mark-Belford-Website/static/media/palm-tree.90bd90090e1a62b9ce42965b4999c5ea.svg",
     "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
     "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "static/media/mark-belford-silver-dress-sketch.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-sketch.9a35ac3899d1ced1e2e4.webp",
     "static/media/scissors-pink.svg": "/Mark-Belford-Website/static/media/scissors-pink.a3f960fa58c030e104cef9f1155ca190.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.bd490be8.css.map": "/Mark-Belford-Website/static/css/main.bd490be8.css.map",
-    "main.037ff7df.js.map": "/Mark-Belford-Website/static/js/main.037ff7df.js.map",
+    "main.6cd35150.css.map": "/Mark-Belford-Website/static/css/main.6cd35150.css.map",
+    "main.b8cb6918.js.map": "/Mark-Belford-Website/static/js/main.b8cb6918.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd490be8.css",
-    "static/js/main.037ff7df.js"
+    "static/css/main.6cd35150.css",
+    "static/js/main.b8cb6918.js"
   ]
 }
