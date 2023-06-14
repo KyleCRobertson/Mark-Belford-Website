@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.c0acb700.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.7f05b80b.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.ac9cd6b1.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.f6a50eb1.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-dior-4.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-4.4235caac37703b58291a.webp",
@@ -10,7 +10,11 @@
     "static/media/mark-belford-dior-1.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1.d1dfd80d9d22bad76543.webp",
     "static/media/mark-belford-dior-3.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-3.3236051e526b1f0c5cbc.webp",
     "static/media/mark-belford-dior-2.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-2.2d9d88f46ae83ed6d7ec.webp",
+    "static/media/mark-belford-hotel-california-Lrg-3.webp": "/Mark-Belford-Website/static/media/mark-belford-hotel-california-Lrg-3.8e23a9e5281c6a550c56.webp",
     "static/media/mark-belford-burmese-ruby-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-burmese-ruby-dress-1.f9294e9d623c07f40c8c.webp",
+    "static/media/mark-belford-hotel-california-Lrg-2.webp": "/Mark-Belford-Website/static/media/mark-belford-hotel-california-Lrg-2.fd4d8a4c50582e42317c.webp",
+    "static/media/mark-belford-hotel-california-Lrg-4.webp": "/Mark-Belford-Website/static/media/mark-belford-hotel-california-Lrg-4.ad1d02107c46d23f0bba.webp",
+    "static/media/mark-belford-hotel-california-Lrg-1.webp": "/Mark-Belford-Website/static/media/mark-belford-hotel-california-Lrg-1.183b680f358b243afc15.webp",
     "static/media/menu-background-1.webp": "/Mark-Belford-Website/static/media/menu-background-1.300cdbdeb10f51bff4c1.webp",
     "static/media/mark-belford-black-lace-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-black-lace-dress-1.770d3bd386b12d321ebc.webp",
     "static/media/mark-belford-dior-7.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-7.7b2cd3ba8e8693963980.webp",
@@ -19,6 +23,7 @@
     "static/media/mark-belford-dior-1-sml.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1-sml.356aa4f9d731a65addec.webp",
     "static/media/GothamSSm-Book_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.66e30a197d6da2d000ac.woff",
     "static/media/GothamSSm-Light_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.9549abde91d6ffe3cf8d.woff",
+    "static/media/palm_tree_large.svg": "/Mark-Belford-Website/static/media/palm_tree_large.d1e1d5d4e3ecd0d8199f8bb2a1e7f8f3.svg",
     "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.43dace85db217f7a7439.webp",
     "static/media/GothamSSm-Book_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
     "static/media/GothamSSm-Light_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.b0e79820df3aed09e69a.woff2",
@@ -40,12 +45,12 @@
     "static/media/mark-belford-silver-dress-sketch.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-sketch.9a35ac3899d1ced1e2e4.webp",
     "static/media/scissors-pink.svg": "/Mark-Belford-Website/static/media/scissors-pink.a3f960fa58c030e104cef9f1155ca190.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.c0acb700.css.map": "/Mark-Belford-Website/static/css/main.c0acb700.css.map",
-    "main.7f05b80b.js.map": "/Mark-Belford-Website/static/js/main.7f05b80b.js.map",
+    "main.ac9cd6b1.css.map": "/Mark-Belford-Website/static/css/main.ac9cd6b1.css.map",
+    "main.f6a50eb1.js.map": "/Mark-Belford-Website/static/js/main.f6a50eb1.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0acb700.css",
-    "static/js/main.7f05b80b.js"
+    "static/css/main.ac9cd6b1.css",
+    "static/js/main.f6a50eb1.js"
   ]
 }
