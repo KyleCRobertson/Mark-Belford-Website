@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.e0be7008.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.f6b7b40f.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.0ebe5431.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.024bef79.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-dior-4.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-4.4235caac37703b58291a.webp",
     "static/media/mark-belford-silver-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-1.00fb5d712e020f5c7257.webp",
+    "static/media/mark-belford-butterfield8-Lrg-3.webp": "/Mark-Belford-Website/static/media/mark-belford-butterfield8-Lrg-3.a4078e73574335ea2827.webp",
     "static/media/mark-belford-dior-2.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-2.2d9d88f46ae83ed6d7ec.webp",
     "static/media/mark-belford-hotel-california-Lrg-3.webp": "/Mark-Belford-Website/static/media/mark-belford-hotel-california-Lrg-3.8e23a9e5281c6a550c56.webp",
     "static/media/mark-belford-burmese-ruby-dress-1.webp": "/Mark-Belford-Website/static/media/mark-belford-burmese-ruby-dress-1.f9294e9d623c07f40c8c.webp",
@@ -17,6 +18,7 @@
     "static/media/mark-belford-dior-1.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1.8d16a9a582830bab2369.webp",
     "static/media/menu-background-8.webp": "/Mark-Belford-Website/static/media/menu-background-8.9866feb990009f22ebca.webp",
     "static/media/mark-belford-dior-1-sml.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-1-sml.9d6af2771cda707597a7.webp",
+    "static/media/mark-belford-butterfield8-Lrg-1.webp": "/Mark-Belford-Website/static/media/mark-belford-butterfield8-Lrg-1.2346c3a63bc782b79022.webp",
     "static/media/menu-background-6.webp": "/Mark-Belford-Website/static/media/menu-background-6.7b78ec262fc36db9e297.webp",
     "static/media/GothamSSm-Book_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.66e30a197d6da2d000ac.woff",
     "static/media/GothamSSm-Light_Web.woff": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.9549abde91d6ffe3cf8d.woff",
@@ -24,7 +26,9 @@
     "static/media/mark-belford-home-1.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1.43dace85db217f7a7439.webp",
     "static/media/GothamSSm-Book_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
     "static/media/GothamSSm-Light_Web.woff2": "/Mark-Belford-Website/static/media/GothamSSm-Light_Web.b0e79820df3aed09e69a.woff2",
+    "static/media/mark-belford-butterfield8-Lrg-4.webp": "/Mark-Belford-Website/static/media/mark-belford-butterfield8-Lrg-4.323d542dea9fb03eb264.webp",
     "static/media/mark-belford-black-lace-2.webp": "/Mark-Belford-Website/static/media/mark-belford-black-lace-2.6dbfb5c0152575b3ee6b.webp",
+    "static/media/mark-belford-butterfield8-Lrg-2.webp": "/Mark-Belford-Website/static/media/mark-belford-butterfield8-Lrg-2.a64a0df41c01629aae8c.webp",
     "static/media/mark-belford-home-1-xs.webp": "/Mark-Belford-Website/static/media/mark-belford-home-1-xs.0730b18b165a63ad40f1.webp",
     "static/media/hotel-california-block-2.webp": "/Mark-Belford-Website/static/media/hotel-california-block-2.cfac865196e566b39a17.webp",
     "static/media/menu-background-8-sml.webp": "/Mark-Belford-Website/static/media/menu-background-8-sml.1504bacbee601ae3ea8d.webp",
@@ -40,13 +44,15 @@
     "static/media/mark-belford-logo-light.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-light.f5a1869c38826d42f159c4b8627075e9.svg",
     "static/media/mark-belford-logo-dark.svg": "/Mark-Belford-Website/static/media/mark-belford-logo-dark.52f211b18fc3c9b30b667a186e88fa1e.svg",
     "static/media/mark-belford-silver-dress-sketch.webp": "/Mark-Belford-Website/static/media/mark-belford-silver-dress-sketch.9a35ac3899d1ced1e2e4.webp",
+    "static/media/instagram-icon-black-circle.svg": "/Mark-Belford-Website/static/media/instagram-icon-black-circle.8fbdfd678dc6b92d32c2d3d0a06a7984.svg",
     "index.html": "/Mark-Belford-Website/index.html",
-    "main.e0be7008.css.map": "/Mark-Belford-Website/static/css/main.e0be7008.css.map",
-    "main.f6b7b40f.js.map": "/Mark-Belford-Website/static/js/main.f6b7b40f.js.map",
+    "static/media/facebook-icon-black-circle.svg": "/Mark-Belford-Website/static/media/facebook-icon-black-circle.9606d3657905bfcea869b9998dcc429f.svg",
+    "main.0ebe5431.css.map": "/Mark-Belford-Website/static/css/main.0ebe5431.css.map",
+    "main.024bef79.js.map": "/Mark-Belford-Website/static/js/main.024bef79.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0be7008.css",
-    "static/js/main.f6b7b40f.js"
+    "static/css/main.0ebe5431.css",
+    "static/js/main.024bef79.js"
   ]
 }
