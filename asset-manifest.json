@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mark-Belford-Website/static/css/main.cf6b5139.css",
-    "main.js": "/Mark-Belford-Website/static/js/main.fbb42a7f.js",
+    "main.css": "/Mark-Belford-Website/static/css/main.09016744.css",
+    "main.js": "/Mark-Belford-Website/static/js/main.1e54744f.js",
     "static/js/787.40f7f0be.chunk.js": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js",
     "static/media/mark-belford-dior-6.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-6.10f7bf01edbcdf87d47f.webp",
     "static/media/mark-belford-dior-4.webp": "/Mark-Belford-Website/static/media/mark-belford-dior-4.4235caac37703b58291a.webp",
@@ -51,12 +51,12 @@
     "static/media/instagram-icon-black-circle.svg": "/Mark-Belford-Website/static/media/instagram-icon-black-circle.8fbdfd678dc6b92d32c2d3d0a06a7984.svg",
     "index.html": "/Mark-Belford-Website/index.html",
     "static/media/facebook-icon-black-circle.svg": "/Mark-Belford-Website/static/media/facebook-icon-black-circle.9606d3657905bfcea869b9998dcc429f.svg",
-    "main.cf6b5139.css.map": "/Mark-Belford-Website/static/css/main.cf6b5139.css.map",
-    "main.fbb42a7f.js.map": "/Mark-Belford-Website/static/js/main.fbb42a7f.js.map",
+    "main.09016744.css.map": "/Mark-Belford-Website/static/css/main.09016744.css.map",
+    "main.1e54744f.js.map": "/Mark-Belford-Website/static/js/main.1e54744f.js.map",
     "787.40f7f0be.chunk.js.map": "/Mark-Belford-Website/static/js/787.40f7f0be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf6b5139.css",
-    "static/js/main.fbb42a7f.js"
+    "static/css/main.09016744.css",
+    "static/js/main.1e54744f.js"
   ]
 }
